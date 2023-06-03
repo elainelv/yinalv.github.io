@@ -1,8 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
-
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -17,92 +15,26 @@
 </div>
 </div>
 
+ -->
+ 
+## Conference
+- [``HotStorage 2023``](https://www.hotstorage.org/2023/cfp.html) **When F2FS Meets Compression-Based SSD!**, Yunpeng Song, Yiyang Huang, **Yina Lv**, Yi Zhang, Liang Shi, East China Normal University, ACM Workshop on Hot Topics in Storage and File Systems(HotStorage), July 9, in Boston, MA, USA.
+- [``HPCA 2023``](https://hpca-conf.org/2023/) **Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.(<font color=#FF0000>**CCF-A**</font>)
+- [``UIC 2022``](http://www.ieee-smart-world.org/2022/uic/ps.php) **[Access Characteristic Guided Remote Swapping for User Experience Optimization on Mobile Devices]()**, Wentong Li, **Yina Lv**, Changlong Li and Liang Shi, in Proceedings of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 15-18, 2022, Haikou, China.(<font color=#FF0000>**CCF-C**</font>)
+- [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) **DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.(<font color=#FF0000>**CCF-C**</font>)
+- [``NVMSA 2022``](https://nvmsa2022.github.io/) **[Latency Aware Page Migration for Read Performance Optimization on Hybrid SSDs](https://ieeexplore.ieee.org/document/9898553)**, Shicheng Li, Longfei Luo, **Yina Lv** and Liang Shi, The 11th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), August 23-25, 2022, Taipei, Taiwan (Hybrid Conference).
+- [``DATE 2022``](https://date22.date-conference.com/) **[DWR: Differential Wearing for Read Performance Optimization on High-Density NAND Flash Memory](https://ieeexplore.ieee.org/document/9774738)**, Yunpeng Song, Qiao Li, **Yina Lv**, Changlong Li, Liang Shi, in Design, Automation & Test in Europe Conference & Exhibition (DATE), 14-23 March 2022, online.(**CCF-B**)
+- [``ICCD 2021``](https://www.iccd-conf.com/Program_2021.html) **[Understanding and Optimizing Hybrid SSD with High-Density and Low-Cost Flash Memory](https://ieeexplore.ieee.org/document/9643753)**, Liang Shi, Longfei Luo, **Yina Lv**, Shicheng Li, Changlong Li and Edwin Hsing-Mean Sha, in IEEE 39th International Conference on Computer Design (ICCD), October 24-27, 2021.(**CCF-B**)
+- [``ICCD 2021``](https://www.iccd-conf.com/Program_2021.html) **[Dynamic File Cache Optimization for Hybrid SSDs with High-Density and Low-Cost Flash Memory](https://ieeexplore.ieee.org/abstract/document/9643721)**, Ben Gu, Longfei Luo, **Yina Lv**, Changlong Li and Liang Shi, in IEEE 39th International Conference on Computer Design (ICCD), October 24-27, 2021.(**CCF-B**)
+- [``ASP-DAC 2021``](http://www.aspdac.com/aspdac2021/) **[SAC: A Stream Aware Write Cache Scheme for Multi-Streamed Solid State Drives](https://dl.acm.org/doi/10.1145/3394885.3431520)**, Bo Zhou, Chuanming Ding, **Yina Lv**, Chun Xue, Qingfeng Zhuge, Edwin Sha, Liang Shi, in Proceedings of the 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan 18-21, 2021. (**CCF-C**)
+- [``ICCD 2020``](https://www.iccd-conf.com/Program_2020.html) **[An Empirical Study of Hybrid SSD with Optane and QLC Flash](https://ieeexplore.ieee.org/document/9283520)**, Hui Chen, **Yina Lv**, Changlong Li, Shouzhen Gu and Liang Shi, in IEEE 38th International Conference on Computer Design (ICCD), Oct 18-21, 2020. (**CCF-B**)
+- [``GLSVLSI 2020``](https://www.glsvlsi.org/archive/glsvlsi20/index.html) **[Latency Variation Aware Read Performance Optimization on 3D High Density NAND Flash Memory](https://dl.acm.org/doi/10.1145/3386263.3406953)**, **Yina Lv**, Liang Shi, Chun Jason Xue, Qingfeng Zhuge and Edwin H.-M. Sha, in Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI). September 7-9, 2020.(**CCF-C**)
+- [``DAC 2020``](https://www.dac.com/) **[Access Characteristic Guided Partition for Read Performance Improvement on Solid State Drives](https://drive.google.com/file/d/1gTzHgntuthRlO_VCOQSyBEXFhbo9otAM/view?usp=sharing)**, **Yina Lv**, Liang Shi, Qiao Li, Chun Jason Xue and Edwin H.-M. Sha, in Proceedings of the 57th Design Automation Conference(DAC), July 20-24, 2020. (**CCF-A**)
+- [``NAS 2019``](http://www.nas-conference.org/NAS-2019/) **[Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh](https://ieeexplore.ieee.org/document/8834728)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Chun Jason Xue and Edwin H.-M. Sha, in IEEE International Conference on Networking, Architecture and Storage (NAS), EnShi, China. August 15−17, 2019.(**EI**)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-</div>
-</div>
-
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, Chenye Cui, Jinglin Liu and Zhou Zhao
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, Zhou Zhao and Dong Yu
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao
-- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
-- ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
-- ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang
-- ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu, [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech)
-- ``IJCAI 2022`` <span style="color:red">(Oral)</span> [EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling](), Lichao Zhang, Zhou Zhao, **Yi Ren**, Liqun Deng, 
-- ``IJCAI 2022`` [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](), Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao,  <span style="color:red">(Oral)</span>, [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff)
-- ``NAACL 2022`` [A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation](), Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, **Yi Ren**, Tao Qin, Tie-Yan Liu
-- ``ACL 2022`` [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/abs/2202.13066), **Yi Ren**, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu
-- ``ACL 2022`` [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, Zhiying Zhu, Zhou Zhao \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
-- ``ICASSP 2022`` [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, Ming Lei, Zhiying Huang,  Shiliang Zhang, Qian Chen, Zhijie Yan, Zhou Zhao
-- ``INTERSPEECH 2021`` [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao
-- ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao
-- ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, Jinglin Liu, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/denoispeech/)
-- ``ACM-MM 2021`` [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358), Rongjie Huang, Feiyang Chen, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao <span style="color:red">(Oral)</span>
-- ``IJCAI 2021`` [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527), Ziyue Jiang, **Yi Ren**, Ming Lei and Zhou Zhao
-- ``KDD 2020`` [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/deepsinger/)
-- ``KDD 2020`` [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/lrspeech/)
-- ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin \| [**Project**](https://speechresearch.github.io/multispeech/)
-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) 
-
-## 👄 Talkingface Generation
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, Jinglin Liu, Jinzheng He, Zhou Zhao
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, Jinglin Liu, Baoxing Huai, Nicholas Yuan
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan
-
-## 📚 Machine Translation 
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, Tao Qin, Kejun Zhang, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu
-
-
-## 🎼 Music Generation 
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/popmag/)
-
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
-## Others
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+## Journal
+- [``TCAD 2023``](https://mc.manuscriptcentral.com/tcad) **[Access Characteristic Guided Partition for NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10142017)**, **Yina Lv**, Liang Shi, Yunpeng Song, Chun Jason Xue, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2023.(**CCF-A**)
+- [``JSA 2022``](https://www.sciencedirect.com/journal/journal-of-systems-architecture) **[Performance and reliability optimization for high-density flash-based hybrid SSDs](https://doi.org/10.1016/j.sysarc.2023.102830)**, Longfei Luo, Shicheng Li, **Yina Lv**, Liang Shi, in Journal of Systems Architecture(JSA), 19 March 2023. (**CCF-B**)
+- [``TCAD 2021``](https://mc.manuscriptcentral.com/tcad) **[Tail Latency Optimization for LDPC based High-Density and Low-Cost Flash Memory Devices](https://ieeexplore.ieee.org/document/9365694/)**, **Yina Lv**, Liang Shi, Longfei Luo, Changlong Li, Chun Jason Xue and Edwin H.-M. Sha, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), March 01, 2021.(**CCF-A**)
+- [``CCF THPC 2022``](https://www.springer.com/journal/42514) **[Read Latency Variation Aware Performance Optimization on High-Density NAND Flash based Storage Systems](https://trebuchet.public.springernature.app/get_content/984f3efb-1241-40de-ae2a-542184827e6a)**, Liang Shi, **Yina Lv**, Longfei Luo, Changlong Li, Chun Jason Xue and Edwin H.-M. Sha, in CCF Transactions on High Performance Computing(CCF THPC) 4:265–280.
+- [``CCF THPC 2022``](https://www.springer.com/journal/42514) **[Practical optimizations for lightweight distributed file system on consumer devices](https://link.springer.com/content/pdf/10.1007/s42514-022-00132-w.pdf?pdf=button)**, Yuze Xu, Hang Li, Han Wang, Ben Gu, **Yina Lv**, Longfei Luo, Changlong Li and Liang Shi, in CCF Transactions on High Performance Computing(CCF THPC), 2022.
