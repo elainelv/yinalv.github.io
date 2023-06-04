@@ -24,7 +24,7 @@ author:
   name             : "Yina Lv (吕熠娜)"
   avatar           : "images/yina.jpg"
   bio              : "East China Normal University"
-  location         : "Shanghai China"
+  location         : # "Shanghai China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9F9NYH4AAAAJ"

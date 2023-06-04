@@ -1,11 +1,11 @@
 # 🎖 Honors and Awards
-- *2023* Shanghai outstanding graduates
-- *2023* Top Ten Female College Students of East China Normal University
-- *2022* Huaxin Scholarship
-- *2021* Outstanding Student Society Scholarship
-- *2021* Outstanding Student, East China Normal University
-- *2021* National Scholarship
-- *2021* Excellent PhD Student Promotion Project of East China Normal University
-- *2020* The Third Prize of the 2020 HUAWEI CLOUD First Technology Innovation Competition
-- *2020* Outstanding Paper Award, Alibaba Cloud-CCF Storage Committee (10 students in china each year).
-- *2020* DAC 2020, Young Student Fellow
+- *2023.03* Outstanding Graduates, Shanghai
+- *2023.01* Top Ten Female College Students of East China Normal University
+- *2022.12* Huaxin Scholarship
+- *2021.12* Outstanding Student Society Scholarship
+- *2021.10* Outstanding Student, East China Normal University
+- *2021.09* National Scholarship
+- *2021.05* Excellent PhD Student Promotion Project of East China Normal University
+- *2020.12* The Third Prize of the 2020 HUAWEI CLOUD First Technology Innovation Competition
+- *2020.09* Outstanding Paper Award, Alibaba Cloud-CCF Storage Committee (10 students in china each year).
+- *2020.06* DAC 2020, Young Student Fellow
