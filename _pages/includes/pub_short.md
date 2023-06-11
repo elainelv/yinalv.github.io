@@ -1,7 +1,7 @@
 
 # 📝 Selected Publications
 
-My full paper list is shown at [my personal homepage](https://yinalv.github.io).
+My full paper list is shown at [my personal homepage](https://elainelv.github.io/#-publications).
 
 #### Conference
 - [``HPCA 2023``](https://hpca-conf.org/2023/) (<span style="color:red">**CCF-A**</span>) **[Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10070946)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.
