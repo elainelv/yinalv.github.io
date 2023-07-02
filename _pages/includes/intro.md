@@ -1,4 +1,4 @@
-<!--, I work at City University of HongKong as a postdoc now in HongKong, China.-->
+I work at City University of HongKong as a **Postdoctoral Researcher** now in HongKong, China.
 
 I received the B.S. degree in Computer Science and Technology from Ning'bo University and Ph.D. degree in Computer Software and Theory from East China Normal University in the group of [Liang Shi](https://faculty.ecnu.edu.cn/_s16/sl2_13905/main.psp).
 
