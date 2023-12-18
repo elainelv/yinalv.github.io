@@ -1,5 +1,7 @@
 # 🔥 News
 **2023:**
+- _2023.10_: 🎉One paper is accepted by **TACO 2023** (<span style="color:red">**CCF-A**</span>)!
+- _2023.07_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.5.20_: 🎉One paper is accepted by **[HotStorage 2023](https://www.hotstorage.org/2023/cfp.html)**
 - _2023.3_: Outstanding Graduate, Shanghai. (上海市优秀毕业生)
