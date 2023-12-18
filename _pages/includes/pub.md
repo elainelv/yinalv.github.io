@@ -13,7 +13,7 @@
  
 # 📝 Publications 
 
- ##  Journal Papers
+## Journal Papers
 - [``TACO 2023``](https://mc.manuscriptcentral.com/tcad) (<span style="color:red">**CCF-A**</span>) **[Critical Data Backup with Hybrid Flash-Based Consumer Devices](https://dl.acm.org/doi/10.1145/3631529)**, Longfei Luo, Dingcui Yu, **Yina Lv**, Liang Shi, ACM Transactions on Architecture and Code Optimization, 2023.
 - [``TCAD 2023``](https://mc.manuscriptcentral.com/tcad) (<span style="color:red">**CCF-A**</span>) **[Adaptive Differential Wearing for Read Performance Optimization on High-Density NAND Flash Memory](https://ieeexplore.ieee.org/document/10190114)**, Yunpeng Song, **Yina Lv**, and Liang Shi, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2023.
 - [``TCAD 2023``](https://mc.manuscriptcentral.com/tcad) (<span style="color:red">**CCF-A**</span>) **[Access Characteristic Guided Partition for NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10142017)**, **Yina Lv**, Liang Shi, Yunpeng Song, Chun Jason Xue, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2023.
@@ -22,7 +22,7 @@
 - [``CCF THPC 2022``](https://www.springer.com/journal/42514) (**CCF-C**) **[Read Latency Variation Aware Performance Optimization on High-Density NAND Flash based Storage Systems](https://trebuchet.public.springernature.app/get_content/984f3efb-1241-40de-ae2a-542184827e6a)**, Liang Shi, **Yina Lv**, Longfei Luo, Changlong Li, Chun Jason Xue and Edwin H.-M. Sha, in CCF Transactions on High Performance Computing(CCF THPC) 4:265–280.
 - [``TCAD 2021``](https://mc.manuscriptcentral.com/tcad) (<span style="color:red">**CCF-A**</span>) **[Tail Latency Optimization for LDPC based High-Density and Low-Cost Flash Memory Devices](https://ieeexplore.ieee.org/document/9365694/)**, **Yina Lv**, Liang Shi, Longfei Luo, Changlong Li, Chun Jason Xue and Edwin H.-M. Sha, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), March 01, 2021. 
 
-##  Conference Papers
+## Conference Papers
 - [``HotStorage 2023``](https://www.hotstorage.org/2023/cfp.html) **When F2FS Meets Compression-Based SSD!**, Yunpeng Song, Yiyang Huang, **Yina Lv**, Yi Zhang, Liang Shi, East China Normal University, ACM Workshop on Hot Topics in Storage and File Systems(HotStorage), July 9, in Boston, MA, USA.
 - [``HPCA 2023``](https://hpca-conf.org/2023/) (<span style="color:red">**CCF-A**</span>) **[Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10070946)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada. 
 - [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) (**CCF-C**) **[DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory]((https://dl.acm.org/doi/abs/10.1145/3566097.3567853?casa_token=J-Rek3oVb6QAAAAA:ihzaHqCppSTjGFHU8rZOWwx5-c5rT8-CXaOAKrzO1AuqHWU79atz1KBQ8cCadw2rgxeJacTiFenXuw))**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.
