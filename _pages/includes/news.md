@@ -1,5 +1,6 @@
 # 🔥 News
 **2023:**
+- _2023.11_: 🎉One paper is accepted by **[ASPLOS 2024](https://www.asplos-conference.org/asplos2024)** (<span style="color:red">**CCF-A**</span>)!
 - _2023.10_: 🎉One paper is accepted by **TACO 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.07_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
@@ -21,10 +22,10 @@
 - _2022.02.10_: 🎉One poster is accepted by **FAST 2022**.
 
 **2021:**
-- _2021.12.30_: **Outstanding Student Social Scholarship**, School of Computer Science and Technology, East China Normal University.
 - _2021.12.28_: Meeting at CCF YOCSEF 青年计算机科技论坛，报告会主题：新一代闪存存储可靠性问题路在何方？Panel嘉宾
+- _2021.12_: **Outstanding Student Social Scholarship**, School of Computer Science and Technology, East China Normal University.
+- _2021.12_: **Outstanding Student**, East China Normal University.
 - _2021.11_: 🎉One paper is accepted by **[DATE 2022](https://date22.date-conference.com/)** (**CCF-B**)!
-- _2021.10.26_: **Outstanding Student**, East China Normal University.
 - _2021.10.14_: Poster session Chair at **MSC 2021**, virtual conference.
 - _2021.09.29_: **National Scholarship**, East China Normal University.
 - _2021.07.29~07.30_: Meeting at **Flash Memory World 2021**, Hangzhou, China.
