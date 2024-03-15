@@ -8,6 +8,7 @@
 - _2023.07_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<span style="color:red">**CCF-A**</span>)!
 - _2023.5.20_: 🎉One paper is accepted by **[HotStorage 2023](https://www.hotstorage.org/2023/cfp.html)**
+- _2023.5.8_: I defended my Ph.D. dissertation✌.
 - _2023.3_: Outstanding Graduate, Shanghai. (上海市优秀毕业生)
 - _2023.2.25~3.1_: Meeting at **[HPCA 2023](https://hpca-conf.org/2023/)**, Montreal, QC, Canada.
 - _2023.2.21~2.23_: Meeting at **[FAST 2023](https://www.usenix.org/conference/fast23/technical-sessions)**, SANTA CLARA, CA, USA.
