@@ -1,6 +1,7 @@
 # 🔥 News
 **2024:**
-- _2024.1.21~1.26_: Meeting at **[ASP-DAC 2024](https://www.aspdac.com/aspdac2024/welcome/index.html)**, Incheon Songdo Convensia, South Korea.
+- _2024.4.27~5.1_: Meeting at **[ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)**, San Diego, USA.
+- _2024.1.22~1.25_: Meeting at **[ASP-DAC 2024](https://www.aspdac.com/aspdac2024/welcome/index.html)**, Incheon Songdo Convensia, South Korea.
 
 **2023:**
 - _2023.11_: 🎉One paper is accepted by **[ASPLOS 2024](https://www.asplos-conference.org/asplos2024)** (<span style="color:red">**CCF-A**</span>)!
